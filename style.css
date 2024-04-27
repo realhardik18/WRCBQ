@@ -1,0 +1,62 @@
+.change {    
+    color:#313131;
+    -webkit-animation:colorchange 20s infinite alternate;
+    
+    
+  }
+
+  @-webkit-keyframes colorchange {
+    0% {
+      
+      color: cyan;
+    }
+    
+    10% {
+      
+      color: yellow;
+    }
+    
+    20% {
+      
+      color: pink;
+    }
+    
+    30% {
+      
+      color: white;
+    }
+    
+    40% {
+      
+      color: green;
+    }
+    
+    50% {
+      
+      color: orangered;
+    }
+    
+    60% {
+      
+      color: yellowgreen;
+    }
+    
+    70% {
+      
+      color: red;
+    }
+    80% {
+   
+      color: turquoise;
+    }
+    
+    90% {
+   
+      color: white;
+    }
+    
+    100% {
+      
+      color: paleturquoise;
+    }
+  }
